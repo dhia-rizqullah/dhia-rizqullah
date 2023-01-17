@@ -9,3 +9,5 @@ console.log(makeUpperCase("hello"));
 
 // export the function es6 style
 export default makeUpperCase;
+
+console.log("test gpg");
